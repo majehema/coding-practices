@@ -1,0 +1,24 @@
+#surefire
+#Wed Mar 03 12:45:27 CET 2021
+testSuiteDefinitionTestSourceDirectory=D\:\\Documents\\codewars\\src\\test\\java
+specificTest0=**/Java/ZerosTest.java
+runOrder=filesystem
+runStatisticsFile=D\:\\Documents\\codewars\\.surefire-D155E030F5F4901B1B11F4C636E667E7F8DA1974
+includes0=**/Java/ZerosTest.java
+reportsDirectory=D\:\\Documents\\codewars\\target\\surefire-reports
+tc.0=Java.ZerosTest
+surefireClassPathUrl.0=C\:\\Users\\mary_\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+classPathUrl.0=D\:\\Documents\\codewars\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+classPathUrl.1=D\:\\Documents\\codewars\\target\\classes
+failIfNoTests=true
+classPathUrl.2=C\:\\Users\\mary_\\.m2\\repository\\junit\\junit\\4.13\\junit-4.13.jar
+requestedTest=Java.ZerosTest,
+classPathUrl.3=C\:\\Users\\mary_\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+testClassesDirectory=D\:\\Documents\\codewars\\target\\test-classes
+isTrimStackTrace=true
+surefireClassPathUrl.1=C\:\\Users\\mary_\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+enableAssertions=true
+childDelegation=false
+useManifestOnlyJar=true
+useSystemClassLoader=true
